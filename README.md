@@ -1,3 +1,1 @@
-# inventoryms-api
-This the official repository for Inventory Management System API being developed by Kindson and used solely for education purposes
-The UI application can be found here https://github.com/KindsonTheGenius/inventoryms-react-ui
+# Developed a scalable SpringBoot backend for an Inventory Management System, integrating GraphQL, REST APIs, and gRPC for versatile data access. Deployed on Microsoft Azure, it features seamless connectivity with MySQL/MariaDB, real-time inventory tracking, and robust user authentication. Leveraged microservices architecture for high performance, ensuring efficient order management, reporting, and secure role-based access control.
